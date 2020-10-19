@@ -61,3 +61,4 @@ A pointer can be in only 3 states a,b and c.
 Explanation:
 
 dp is initialized int value of i. 
+
